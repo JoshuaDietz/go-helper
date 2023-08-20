@@ -1,4 +1,4 @@
-module github.com/JoshuaDietz/go-helper.git
+module github.com/JoshuaDietz/go-helper
 
 go 1.20
 
